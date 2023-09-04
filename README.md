@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Mi nombre es Marcelo Liberona</h1>
+<h1 align="center">Hola, Mi nombre es Marcelo Liberona</h1>
 <h3 align="center">Desarrollador web</h3>
 
-- 💬 Ask me about **HTML, CSS, javascript, php**
+- 💬 Ask me about **HTML, CSS, javascript, PHP**
 
 - 📫 How to reach me **Marceloliberonarobles@gmail.com**
 
